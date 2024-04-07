@@ -1,0 +1,23 @@
+{
+  "name": "fem-easybank-master",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r =======",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elhaddadi-meroine96/fem-easybank-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elhaddadi-meroine96/fem-easybank-master/issues"
+  },
+  "homepage": "https://github.com/elhaddadi-meroine96/fem-easybank-master#readme"
+}
